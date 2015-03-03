@@ -1,0 +1,11 @@
+var chalk = require('chalk');
+var readlineSync = require('readline-sync);
+
+var ranNum = Math.floor(Math.random() * (100 - 1)) + 1;
+
+var userNum = readlineSync.question('Guess the number between 1 and 100 :');
+
+if (userNum === ranNum){
+	chalk.green("Yeah the correct number is " + ranNum + ". It took you " +
+	 
+

@@ -1,0 +1,14 @@
+{
+  "name": "modules101",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Taariq Isaacs",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "figlet": "~1.1.0"
+  }
+}
